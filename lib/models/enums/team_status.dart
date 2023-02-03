@@ -1,0 +1,4 @@
+enum TeamStatus{
+  Available,
+  IsLocked
+}

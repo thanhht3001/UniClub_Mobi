@@ -1,0 +1,4 @@
+enum ParticipantInTeamStatus{
+  InTeam,
+  OutTeam
+}
